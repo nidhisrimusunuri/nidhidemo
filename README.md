@@ -1,5 +1,5 @@
 # nidhidemo
 This is my first repository
 <br>
-author:Nidhi
+author:Nidhi(gitam)
 
